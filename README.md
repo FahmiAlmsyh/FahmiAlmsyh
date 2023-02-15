@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **FahmiAlmsyh/FahmiAlmsyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -29,5 +29,5 @@ Javascript, HTML, CSS...
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://fahmialmsyh.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahmi-alamsyah-579482248/)
--->
+
 
