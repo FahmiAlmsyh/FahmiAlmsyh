@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, I'm Fahmi Alamsyah</h1>
+<h1 align="center">Bonjour 👋 <br> I'm Fahmi Alamsyah</h1>
 <h3 align="center">A handsome student that live at Surabaya, Indonesia and study at IDN Boarding School Bogor with his dream to become an Software Engineer expert in the future.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahmialmsyh" alt="fahmialmsyh" /></a> </p>
